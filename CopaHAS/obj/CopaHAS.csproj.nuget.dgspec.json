@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PAM\\CopaHAS\\CopaHAS.csproj": {}
+    "D:\\gabriel e enzo\\Aula10_PAM\\CopaHAS\\CopaHAS\\CopaHAS.csproj": {}
   },
   "projects": {
-    "E:\\PAM\\CopaHAS\\CopaHAS.csproj": {
+    "D:\\gabriel e enzo\\Aula10_PAM\\CopaHAS\\CopaHAS\\CopaHAS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PAM\\CopaHAS\\CopaHAS.csproj",
+        "projectUniqueName": "D:\\gabriel e enzo\\Aula10_PAM\\CopaHAS\\CopaHAS\\CopaHAS.csproj",
         "projectName": "CopaHAS",
-        "projectPath": "E:\\PAM\\CopaHAS\\CopaHAS.csproj",
+        "projectPath": "D:\\gabriel e enzo\\Aula10_PAM\\CopaHAS\\CopaHAS\\CopaHAS.csproj",
         "packagesPath": "D:\\NUGET_PACKAGES",
-        "outputPath": "E:\\PAM\\CopaHAS\\obj\\",
+        "outputPath": "D:\\gabriel e enzo\\Aula10_PAM\\CopaHAS\\CopaHAS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -13,7 +13,7 @@ namespace CopaHAS.Controllers
     {
         private static List<Jogador> listaJogadores = new List<Jogador>()
         {
-           new Jogador() { Id = 1, Nome = "Hugo Souza", NumeroCamisa = 1, Posicao = "Goleiro", Status = Models.Enuns.StatusJogador.Titular },
+           new Jogador() { Id = 1, Nome = "paredao Souza", NumeroCamisa = 1, Posicao = "Goleiro", Status = Models.Enuns.StatusJogador.Titular },
     new Jogador() { Id = 2, Nome = "Yuri Alberto", NumeroCamisa = 9, Posicao = "Atacante", Status = Models.Enuns.StatusJogador.Titular },
     new Jogador() { Id = 3, Nome = "Lucas Silva", NumeroCamisa = 4, Posicao = "Zagueiro", Status = Models.Enuns.StatusJogador.Titular },
     new Jogador() { Id = 4, Nome = "João Pedro", NumeroCamisa = 5, Posicao = "Zagueiro", Status = Models.Enuns.StatusJogador.Titular },
